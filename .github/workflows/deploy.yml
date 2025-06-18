@@ -1,5 +1,3 @@
-기본 실습
-
 1. vite  프로젝트 생성  (VS)
 https://ko.vite.dev/guide/
 
@@ -29,16 +27,16 @@ git push -u origin main
 git init
 git remote add origin https://github.com/kglim1004/....
 git add .           (새로만든파일  , 수정된 파일)
-or git add --all   (새로만든 파일 , 수정된 파일 , 삭제된 파일)
+​or git add --all   (새로만든 파일 , 수정된 파일 , 삭제된 파일)
 gitt commit -m "init"
-git push -u origin master
+​git push -u origin master
 
 
 4. github 확인
 https://github.com/kglim1004/my-app/settings/pages
 Build and deployment  >> Github Actions  > CI & CD
 
-5. my-app 으로 옴
+5. 
 # GitHub Pages를 통해 정적 콘텐츠를 배포하는 간단한 워크플로우
 name: Deploy static content to Pages
 
